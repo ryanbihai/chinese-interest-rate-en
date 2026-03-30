@@ -1,8 +1,19 @@
-# Chinese Interest Rate Monitor (English Version)
+# 📊 Chinese Interest Rate Monitor
+
+> Monitor China interest rates: LPR, SHIBOR, bond yields, mortgage rates. Daily check with instant change alerts.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Platform](https://img.shields.io/badge/Platform-OpenClaw-green.svg)](https://openclaw.ai)
+[![ClawHub](https://img.shields.io/badge/ClawHub-v2.0-orange.svg)](https://clawhub.ai/skill/ryanbihai/chinese-interest-rate-en)
+[![Downloads](https://img.shields.io/badge/Downloads-13+-blue.svg)](https://clawhub.ai/skill/ryanbihai/chinese-interest-rate-en)
+
+**Keywords:** China interest rate | LPR | SHIBOR | bond yield | mortgage rate | PBC | bank deposit rate | China finance | CNY rates | China monetary policy | interbank offered rate
+
+---
 
 ## Overview
 
-This is the English version of the Chinese Interest Rate Monitor skill, designed for international users interested in China's financial markets.
+English version of the Chinese Interest Rate Monitor skill, designed for international users interested in China's financial markets.
 
 ## Features
 
