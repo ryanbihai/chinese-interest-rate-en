@@ -1,0 +1,35 @@
+{
+  "updateDate": "2026-03-30",
+  "depositRates": {
+    "1year": "1.50",
+    "3year": "2.00",
+    "5year": "2.25"
+  },
+  "LPR": {
+    "1year": "3.45",
+    "5yearPlus": "4.20"
+  },
+  "bondYields": {
+    "1year": "1.60",
+    "3year": "1.85",
+    "10year": "2.30"
+  },
+  "SHIBOR": {
+    "ON": "1.75",
+    "1W": "1.85",
+    "1M": "2.00",
+    "3M": "2.10"
+  },
+  "mortgageLPR": {
+    "5yearPlus": "4.20"
+  },
+  "OMO": {
+    "repo7d": "1.80",
+    "repo14d": "1.95",
+    "MLF1Y": "2.50"
+  },
+  "RRR": {
+    "large": "8.00",
+    "small": "6.00"
+  }
+}

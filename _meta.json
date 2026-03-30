@@ -1,0 +1,10 @@
+{
+  "ownerId": "kn75dvek1dkfz0r0xwdp4xtc2983qg44",
+  "slug": "chinese-interest-rate-en",
+  "version": "2.0.0",
+  "publishedAt": 1774826000000,
+  "namespace": "ryanbihai",
+  "changelog": "v2.0: English version of chinese-interest-rate. Expanded to 9 major categories of interest rate data including LPR, SHIBOR, RRR, repo rates, mortgage rates, and more.",
+  "tags": ["finance", "china", "interest-rate", "LPR", "SHIBOR", "bank-deposit", "bond-yield", "mortgage", "monitor", "international", "china-finance", "PBC", "loan-prime-rate", "PBoC", "PBOC", "Chinese finance", "RMB", "CNY"],
+  "language": "en"
+}
